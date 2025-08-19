@@ -28,3 +28,7 @@
   - Authorization
   - Rate limiting
   - Securing payments
+
+## CI/CD Pipeline
+  - Github Actions
+  - Docker
