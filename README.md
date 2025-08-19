@@ -22,3 +22,9 @@
   - User management
   - Property management
   - Booking system
+
+## API Security
+  - Authentication
+  - Authorization
+  - Rate limiting
+  - Securing payments
