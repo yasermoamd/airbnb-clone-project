@@ -10,3 +10,10 @@
   - GraphQL
   - Redis
   - Docker
+
+## Database Design
+  - Users
+  - Properties
+  - Bookings
+  - Reviews
+  - Payments
