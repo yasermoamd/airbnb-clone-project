@@ -17,3 +17,8 @@
   - Bookings
   - Reviews
   - Payments
+
+## Feature Breakdown
+  - User management
+  - Property management
+  - Booking system
